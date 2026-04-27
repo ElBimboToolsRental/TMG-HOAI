@@ -162,7 +162,7 @@ nav a:hover::after {
   background:
     radial-gradient(circle at top left, rgba(242, 201, 76, 0.23), transparent 28%),
     linear-gradient(110deg, rgba(8, 44, 27, 0.96), rgba(15, 81, 50, 0.78), rgba(15, 81, 50, 0.38)),
-    url('https://unsplash.com/photos/person-in-red-sweater-holding-babys-hand-Zyx1bK9mqmA');
+    url('https://unsplash.com/photos/person-in-red-sweater-holding-babys-hand-Zyx1bK9mqmA?auto=format&fit=crop&w=1800&q=80');
   background-size: cover;
   background-position: center;
   color: var(--white);
